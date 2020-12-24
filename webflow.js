@@ -293,9 +293,9 @@ var modules = {};
 var primary = [];
 var secondary = window.Webflow || [];
 var $ = window.jQuery;
-var $win = $(window);
-var $doc = $(document);
-var isFunction = $.isFunction;
+// var $win = $(window);
+// var $doc = $(document);
+// var isFunction = $.isFunction;
 
 var _ = Webflow._ = __webpack_require__(122);
 
